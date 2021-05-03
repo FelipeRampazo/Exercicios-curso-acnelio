@@ -1,0 +1,12 @@
+C:\Users\Horus\source\repos\ExeWhile2\ExeWhile2\bin\Debug\netcoreapp3.1\ExeWhile2.exe
+C:\Users\Horus\source\repos\ExeWhile2\ExeWhile2\bin\Debug\netcoreapp3.1\ExeWhile2.deps.json
+C:\Users\Horus\source\repos\ExeWhile2\ExeWhile2\bin\Debug\netcoreapp3.1\ExeWhile2.runtimeconfig.json
+C:\Users\Horus\source\repos\ExeWhile2\ExeWhile2\bin\Debug\netcoreapp3.1\ExeWhile2.runtimeconfig.dev.json
+C:\Users\Horus\source\repos\ExeWhile2\ExeWhile2\bin\Debug\netcoreapp3.1\ExeWhile2.dll
+C:\Users\Horus\source\repos\ExeWhile2\ExeWhile2\bin\Debug\netcoreapp3.1\ExeWhile2.pdb
+C:\Users\Horus\source\repos\ExeWhile2\ExeWhile2\obj\Debug\netcoreapp3.1\ExeWhile2.AssemblyInfoInputs.cache
+C:\Users\Horus\source\repos\ExeWhile2\ExeWhile2\obj\Debug\netcoreapp3.1\ExeWhile2.AssemblyInfo.cs
+C:\Users\Horus\source\repos\ExeWhile2\ExeWhile2\obj\Debug\netcoreapp3.1\ExeWhile2.csproj.CoreCompileInputs.cache
+C:\Users\Horus\source\repos\ExeWhile2\ExeWhile2\obj\Debug\netcoreapp3.1\ExeWhile2.dll
+C:\Users\Horus\source\repos\ExeWhile2\ExeWhile2\obj\Debug\netcoreapp3.1\ExeWhile2.pdb
+C:\Users\Horus\source\repos\ExeWhile2\ExeWhile2\obj\Debug\netcoreapp3.1\ExeWhile2.genruntimeconfig.cache

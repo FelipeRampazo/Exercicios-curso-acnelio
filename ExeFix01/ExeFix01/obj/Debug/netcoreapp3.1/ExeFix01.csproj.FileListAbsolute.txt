@@ -1,0 +1,13 @@
+C:\Users\Horus\source\repos\ExeFix01\ExeFix01\bin\Debug\netcoreapp3.1\ExeFix01.exe
+C:\Users\Horus\source\repos\ExeFix01\ExeFix01\bin\Debug\netcoreapp3.1\ExeFix01.deps.json
+C:\Users\Horus\source\repos\ExeFix01\ExeFix01\bin\Debug\netcoreapp3.1\ExeFix01.runtimeconfig.json
+C:\Users\Horus\source\repos\ExeFix01\ExeFix01\bin\Debug\netcoreapp3.1\ExeFix01.runtimeconfig.dev.json
+C:\Users\Horus\source\repos\ExeFix01\ExeFix01\bin\Debug\netcoreapp3.1\ExeFix01.dll
+C:\Users\Horus\source\repos\ExeFix01\ExeFix01\bin\Debug\netcoreapp3.1\ExeFix01.pdb
+C:\Users\Horus\source\repos\ExeFix01\ExeFix01\obj\Debug\netcoreapp3.1\ExeFix01.csprojAssemblyReference.cache
+C:\Users\Horus\source\repos\ExeFix01\ExeFix01\obj\Debug\netcoreapp3.1\ExeFix01.AssemblyInfoInputs.cache
+C:\Users\Horus\source\repos\ExeFix01\ExeFix01\obj\Debug\netcoreapp3.1\ExeFix01.AssemblyInfo.cs
+C:\Users\Horus\source\repos\ExeFix01\ExeFix01\obj\Debug\netcoreapp3.1\ExeFix01.csproj.CoreCompileInputs.cache
+C:\Users\Horus\source\repos\ExeFix01\ExeFix01\obj\Debug\netcoreapp3.1\ExeFix01.dll
+C:\Users\Horus\source\repos\ExeFix01\ExeFix01\obj\Debug\netcoreapp3.1\ExeFix01.pdb
+C:\Users\Horus\source\repos\ExeFix01\ExeFix01\obj\Debug\netcoreapp3.1\ExeFix01.genruntimeconfig.cache

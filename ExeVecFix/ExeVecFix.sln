@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExeVecFix", "ExeVecFix\ExeVecFix.csproj", "{53234E50-F13B-46CD-B030-2ED175EDF664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53234E50-F13B-46CD-B030-2ED175EDF664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53234E50-F13B-46CD-B030-2ED175EDF664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53234E50-F13B-46CD-B030-2ED175EDF664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53234E50-F13B-46CD-B030-2ED175EDF664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEE6A561-E627-49C4-A383-28AC79842FCE}
+	EndGlobalSection
+EndGlobal

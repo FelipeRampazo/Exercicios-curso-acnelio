@@ -1,0 +1,13 @@
+C:\Users\Horus\source\repos\ExeFixMetodosAbs\ExeFixMetodosAbs\bin\Debug\netcoreapp3.1\ExeFixMetodosAbs.exe
+C:\Users\Horus\source\repos\ExeFixMetodosAbs\ExeFixMetodosAbs\bin\Debug\netcoreapp3.1\ExeFixMetodosAbs.deps.json
+C:\Users\Horus\source\repos\ExeFixMetodosAbs\ExeFixMetodosAbs\bin\Debug\netcoreapp3.1\ExeFixMetodosAbs.runtimeconfig.json
+C:\Users\Horus\source\repos\ExeFixMetodosAbs\ExeFixMetodosAbs\bin\Debug\netcoreapp3.1\ExeFixMetodosAbs.runtimeconfig.dev.json
+C:\Users\Horus\source\repos\ExeFixMetodosAbs\ExeFixMetodosAbs\bin\Debug\netcoreapp3.1\ExeFixMetodosAbs.dll
+C:\Users\Horus\source\repos\ExeFixMetodosAbs\ExeFixMetodosAbs\bin\Debug\netcoreapp3.1\ExeFixMetodosAbs.pdb
+C:\Users\Horus\source\repos\ExeFixMetodosAbs\ExeFixMetodosAbs\obj\Debug\netcoreapp3.1\ExeFixMetodosAbs.csprojAssemblyReference.cache
+C:\Users\Horus\source\repos\ExeFixMetodosAbs\ExeFixMetodosAbs\obj\Debug\netcoreapp3.1\ExeFixMetodosAbs.AssemblyInfoInputs.cache
+C:\Users\Horus\source\repos\ExeFixMetodosAbs\ExeFixMetodosAbs\obj\Debug\netcoreapp3.1\ExeFixMetodosAbs.AssemblyInfo.cs
+C:\Users\Horus\source\repos\ExeFixMetodosAbs\ExeFixMetodosAbs\obj\Debug\netcoreapp3.1\ExeFixMetodosAbs.csproj.CoreCompileInputs.cache
+C:\Users\Horus\source\repos\ExeFixMetodosAbs\ExeFixMetodosAbs\obj\Debug\netcoreapp3.1\ExeFixMetodosAbs.dll
+C:\Users\Horus\source\repos\ExeFixMetodosAbs\ExeFixMetodosAbs\obj\Debug\netcoreapp3.1\ExeFixMetodosAbs.pdb
+C:\Users\Horus\source\repos\ExeFixMetodosAbs\ExeFixMetodosAbs\obj\Debug\netcoreapp3.1\ExeFixMetodosAbs.genruntimeconfig.cache

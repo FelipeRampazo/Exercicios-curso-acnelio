@@ -1,0 +1,13 @@
+C:\Users\Horus\source\repos\ExeFixBanc\ExeFixBanc\bin\Debug\netcoreapp3.1\ExeFixBanc.exe
+C:\Users\Horus\source\repos\ExeFixBanc\ExeFixBanc\bin\Debug\netcoreapp3.1\ExeFixBanc.deps.json
+C:\Users\Horus\source\repos\ExeFixBanc\ExeFixBanc\bin\Debug\netcoreapp3.1\ExeFixBanc.runtimeconfig.json
+C:\Users\Horus\source\repos\ExeFixBanc\ExeFixBanc\bin\Debug\netcoreapp3.1\ExeFixBanc.runtimeconfig.dev.json
+C:\Users\Horus\source\repos\ExeFixBanc\ExeFixBanc\bin\Debug\netcoreapp3.1\ExeFixBanc.dll
+C:\Users\Horus\source\repos\ExeFixBanc\ExeFixBanc\bin\Debug\netcoreapp3.1\ExeFixBanc.pdb
+C:\Users\Horus\source\repos\ExeFixBanc\ExeFixBanc\obj\Debug\netcoreapp3.1\ExeFixBanc.csprojAssemblyReference.cache
+C:\Users\Horus\source\repos\ExeFixBanc\ExeFixBanc\obj\Debug\netcoreapp3.1\ExeFixBanc.AssemblyInfoInputs.cache
+C:\Users\Horus\source\repos\ExeFixBanc\ExeFixBanc\obj\Debug\netcoreapp3.1\ExeFixBanc.AssemblyInfo.cs
+C:\Users\Horus\source\repos\ExeFixBanc\ExeFixBanc\obj\Debug\netcoreapp3.1\ExeFixBanc.csproj.CoreCompileInputs.cache
+C:\Users\Horus\source\repos\ExeFixBanc\ExeFixBanc\obj\Debug\netcoreapp3.1\ExeFixBanc.dll
+C:\Users\Horus\source\repos\ExeFixBanc\ExeFixBanc\obj\Debug\netcoreapp3.1\ExeFixBanc.pdb
+C:\Users\Horus\source\repos\ExeFixBanc\ExeFixBanc\obj\Debug\netcoreapp3.1\ExeFixBanc.genruntimeconfig.cache

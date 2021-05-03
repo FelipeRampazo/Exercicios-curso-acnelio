@@ -1,0 +1,13 @@
+C:\Users\Horus\source\repos\ExeVecFix\ExeVecFix\bin\Debug\netcoreapp3.1\ExeVecFix.exe
+C:\Users\Horus\source\repos\ExeVecFix\ExeVecFix\bin\Debug\netcoreapp3.1\ExeVecFix.deps.json
+C:\Users\Horus\source\repos\ExeVecFix\ExeVecFix\bin\Debug\netcoreapp3.1\ExeVecFix.runtimeconfig.json
+C:\Users\Horus\source\repos\ExeVecFix\ExeVecFix\bin\Debug\netcoreapp3.1\ExeVecFix.runtimeconfig.dev.json
+C:\Users\Horus\source\repos\ExeVecFix\ExeVecFix\bin\Debug\netcoreapp3.1\ExeVecFix.dll
+C:\Users\Horus\source\repos\ExeVecFix\ExeVecFix\bin\Debug\netcoreapp3.1\ExeVecFix.pdb
+C:\Users\Horus\source\repos\ExeVecFix\ExeVecFix\obj\Debug\netcoreapp3.1\ExeVecFix.csprojAssemblyReference.cache
+C:\Users\Horus\source\repos\ExeVecFix\ExeVecFix\obj\Debug\netcoreapp3.1\ExeVecFix.AssemblyInfoInputs.cache
+C:\Users\Horus\source\repos\ExeVecFix\ExeVecFix\obj\Debug\netcoreapp3.1\ExeVecFix.AssemblyInfo.cs
+C:\Users\Horus\source\repos\ExeVecFix\ExeVecFix\obj\Debug\netcoreapp3.1\ExeVecFix.csproj.CoreCompileInputs.cache
+C:\Users\Horus\source\repos\ExeVecFix\ExeVecFix\obj\Debug\netcoreapp3.1\ExeVecFix.dll
+C:\Users\Horus\source\repos\ExeVecFix\ExeVecFix\obj\Debug\netcoreapp3.1\ExeVecFix.pdb
+C:\Users\Horus\source\repos\ExeVecFix\ExeVecFix\obj\Debug\netcoreapp3.1\ExeVecFix.genruntimeconfig.cache

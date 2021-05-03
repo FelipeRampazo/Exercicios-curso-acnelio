@@ -1,0 +1,13 @@
+C:\Users\Horus\source\repos\ExeMatFix\ExeMatFix\bin\Debug\netcoreapp3.1\ExeMatFix.exe
+C:\Users\Horus\source\repos\ExeMatFix\ExeMatFix\bin\Debug\netcoreapp3.1\ExeMatFix.deps.json
+C:\Users\Horus\source\repos\ExeMatFix\ExeMatFix\bin\Debug\netcoreapp3.1\ExeMatFix.runtimeconfig.json
+C:\Users\Horus\source\repos\ExeMatFix\ExeMatFix\bin\Debug\netcoreapp3.1\ExeMatFix.runtimeconfig.dev.json
+C:\Users\Horus\source\repos\ExeMatFix\ExeMatFix\bin\Debug\netcoreapp3.1\ExeMatFix.dll
+C:\Users\Horus\source\repos\ExeMatFix\ExeMatFix\bin\Debug\netcoreapp3.1\ExeMatFix.pdb
+C:\Users\Horus\source\repos\ExeMatFix\ExeMatFix\obj\Debug\netcoreapp3.1\ExeMatFix.csprojAssemblyReference.cache
+C:\Users\Horus\source\repos\ExeMatFix\ExeMatFix\obj\Debug\netcoreapp3.1\ExeMatFix.AssemblyInfoInputs.cache
+C:\Users\Horus\source\repos\ExeMatFix\ExeMatFix\obj\Debug\netcoreapp3.1\ExeMatFix.AssemblyInfo.cs
+C:\Users\Horus\source\repos\ExeMatFix\ExeMatFix\obj\Debug\netcoreapp3.1\ExeMatFix.csproj.CoreCompileInputs.cache
+C:\Users\Horus\source\repos\ExeMatFix\ExeMatFix\obj\Debug\netcoreapp3.1\ExeMatFix.dll
+C:\Users\Horus\source\repos\ExeMatFix\ExeMatFix\obj\Debug\netcoreapp3.1\ExeMatFix.pdb
+C:\Users\Horus\source\repos\ExeMatFix\ExeMatFix\obj\Debug\netcoreapp3.1\ExeMatFix.genruntimeconfig.cache

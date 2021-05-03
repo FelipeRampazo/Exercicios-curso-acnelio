@@ -1,0 +1,13 @@
+C:\Users\Horus\source\repos\ExeListFic\ExeListFic\bin\Debug\netcoreapp3.1\ExeListFic.exe
+C:\Users\Horus\source\repos\ExeListFic\ExeListFic\bin\Debug\netcoreapp3.1\ExeListFic.deps.json
+C:\Users\Horus\source\repos\ExeListFic\ExeListFic\bin\Debug\netcoreapp3.1\ExeListFic.runtimeconfig.json
+C:\Users\Horus\source\repos\ExeListFic\ExeListFic\bin\Debug\netcoreapp3.1\ExeListFic.runtimeconfig.dev.json
+C:\Users\Horus\source\repos\ExeListFic\ExeListFic\bin\Debug\netcoreapp3.1\ExeListFic.dll
+C:\Users\Horus\source\repos\ExeListFic\ExeListFic\bin\Debug\netcoreapp3.1\ExeListFic.pdb
+C:\Users\Horus\source\repos\ExeListFic\ExeListFic\obj\Debug\netcoreapp3.1\ExeListFic.csprojAssemblyReference.cache
+C:\Users\Horus\source\repos\ExeListFic\ExeListFic\obj\Debug\netcoreapp3.1\ExeListFic.AssemblyInfoInputs.cache
+C:\Users\Horus\source\repos\ExeListFic\ExeListFic\obj\Debug\netcoreapp3.1\ExeListFic.AssemblyInfo.cs
+C:\Users\Horus\source\repos\ExeListFic\ExeListFic\obj\Debug\netcoreapp3.1\ExeListFic.csproj.CoreCompileInputs.cache
+C:\Users\Horus\source\repos\ExeListFic\ExeListFic\obj\Debug\netcoreapp3.1\ExeListFic.dll
+C:\Users\Horus\source\repos\ExeListFic\ExeListFic\obj\Debug\netcoreapp3.1\ExeListFic.pdb
+C:\Users\Horus\source\repos\ExeListFic\ExeListFic\obj\Debug\netcoreapp3.1\ExeListFic.genruntimeconfig.cache

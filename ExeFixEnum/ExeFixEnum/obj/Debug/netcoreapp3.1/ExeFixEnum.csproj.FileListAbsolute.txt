@@ -1,0 +1,13 @@
+C:\Users\Horus\source\repos\ExeFixEnum\ExeFixEnum\obj\Debug\netcoreapp3.1\ExeFixEnum.csprojAssemblyReference.cache
+C:\Users\Horus\source\repos\ExeFixEnum\ExeFixEnum\obj\Debug\netcoreapp3.1\ExeFixEnum.AssemblyInfoInputs.cache
+C:\Users\Horus\source\repos\ExeFixEnum\ExeFixEnum\obj\Debug\netcoreapp3.1\ExeFixEnum.AssemblyInfo.cs
+C:\Users\Horus\source\repos\ExeFixEnum\ExeFixEnum\obj\Debug\netcoreapp3.1\ExeFixEnum.csproj.CoreCompileInputs.cache
+C:\Users\Horus\source\repos\ExeFixEnum\ExeFixEnum\bin\Debug\netcoreapp3.1\ExeFixEnum.exe
+C:\Users\Horus\source\repos\ExeFixEnum\ExeFixEnum\bin\Debug\netcoreapp3.1\ExeFixEnum.deps.json
+C:\Users\Horus\source\repos\ExeFixEnum\ExeFixEnum\bin\Debug\netcoreapp3.1\ExeFixEnum.runtimeconfig.json
+C:\Users\Horus\source\repos\ExeFixEnum\ExeFixEnum\bin\Debug\netcoreapp3.1\ExeFixEnum.runtimeconfig.dev.json
+C:\Users\Horus\source\repos\ExeFixEnum\ExeFixEnum\bin\Debug\netcoreapp3.1\ExeFixEnum.dll
+C:\Users\Horus\source\repos\ExeFixEnum\ExeFixEnum\bin\Debug\netcoreapp3.1\ExeFixEnum.pdb
+C:\Users\Horus\source\repos\ExeFixEnum\ExeFixEnum\obj\Debug\netcoreapp3.1\ExeFixEnum.dll
+C:\Users\Horus\source\repos\ExeFixEnum\ExeFixEnum\obj\Debug\netcoreapp3.1\ExeFixEnum.pdb
+C:\Users\Horus\source\repos\ExeFixEnum\ExeFixEnum\obj\Debug\netcoreapp3.1\ExeFixEnum.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExeWhile2/1.0.0": {
+        "runtime": {
+          "ExeWhile2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExeWhile2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
