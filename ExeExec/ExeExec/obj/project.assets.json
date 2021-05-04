@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Horus\\source\\repos\\ExeFix\\ExeCondicional1\\ExeCondicional1\\ExeCondicional1.csproj",
-      "projectName": "ExeCondicional1",
-      "projectPath": "C:\\Users\\Horus\\source\\repos\\ExeFix\\ExeCondicional1\\ExeCondicional1\\ExeCondicional1.csproj",
+      "projectUniqueName": "C:\\Users\\Horus\\source\\repos\\ExeFix\\ExeExec\\ExeExec\\ExeExec.csproj",
+      "projectName": "ExeExec",
+      "projectPath": "C:\\Users\\Horus\\source\\repos\\ExeFix\\ExeExec\\ExeExec\\ExeExec.csproj",
       "packagesPath": "C:\\Users\\Horus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Horus\\source\\repos\\ExeFix\\ExeCondicional1\\ExeCondicional1\\obj\\",
+      "outputPath": "C:\\Users\\Horus\\source\\repos\\ExeFix\\ExeExec\\ExeExec\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
